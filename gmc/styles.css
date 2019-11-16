@@ -1,0 +1,218 @@
+p.a,h4{
+    color: #004C8C	
+}
+
+button:hover{
+	background-color: lightblue;
+}
+body{
+	background-color: black;
+	color: white;
+}
+ul li a{
+	text-decoration: none;
+	color: white
+}
+ul li a:hover{
+	color: red
+}
+body{
+	Background-image:
+
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+
+background-repeat: no-repeat;
+height: 1000px}
+.a{
+	background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+	height: 500px
+
+}
+.test li {
+	display: inline;
+	margin-left: 270px
+}
+.course1{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course1:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses1{
+    margin-top:120px;
+    display:none;
+    
+}
+
+
+.course2{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel1.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course2:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses2{
+    margin-top:120px;
+    display:none;
+}
+
+
+.course3{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel2.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course3:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses3{
+    margin-top:120px;
+    display:none;
+}
+
+
+
+/*.course4{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel3.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course4:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses4{
+    margin-top:120px;
+    display:none;
+}
+
+
+.course5{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel4.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course5:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses5{
+    margin-top:120px;
+    display:none;
+}
+
+
+.course6{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel5.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course6:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses6{
+    margin-top:120px;
+    display:none;
+}
+
+.course7{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel6.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course7:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses7{
+    margin-top:120px;
+    display:none;
+}
+
+.course8{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel7.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course8:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses8{
+    margin-top:120px;
+    display:none;
+}
+
+.course9{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel8.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course9:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses9{
+    margin-top:120px;
+    display:none;
+}
+
+
+.btnCourses1Hover{
+    display:inline !important;
+    opacity: 1 !important;
+}
+*/
+
+/*wdth 
+marging auto
+z-index*/
